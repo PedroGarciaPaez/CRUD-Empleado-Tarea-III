@@ -16,7 +16,7 @@ namespace Diseño_CRUD_empleado
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lista_de_empleados ());
+            Application.Run(new CRUD_Cargo ());
             
         }
     }
